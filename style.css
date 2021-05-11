@@ -1,0 +1,37 @@
+body {
+    background-color: mistyrose;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-image:url("balloons-1786430_640.jpg");
+    background-size:100%;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    color:white;
+    font-size:2.5em;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: lightcoral;
+    color: darkolivegreen;
+    font-size:2.0em;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+    color:white;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : lightcoral;
+    color: darkolivegreen;
+}
